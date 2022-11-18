@@ -1,0 +1,4 @@
+### Image syntax
+syntax       <!--![alt text](image)  
+2nd         ![profile](./image/blue%20sky.png)-->
+3rd         <img src="./image/blue sky.png" width="400" title="profile image"/>

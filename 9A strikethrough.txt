@@ -1,0 +1,2 @@
+strikethrough means delete sign     <del>sentence</del>
+                                    ~~sentence~~

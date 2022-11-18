@@ -1,0 +1,19 @@
+### autometic link
+http://www.raselislam.com
+
+### Disable link <!--not for click-->
+`http://www.raselislam.com`
+
+### Markdown link syntax
+[title][website]  
+[rasel islam](http://www.raselislam.com)  
+
+### Markdown link syntax
+[facebook][facebook link]  
+[youtube][youtube link]
+
+<!--all link is here-->
+[facebook link]: http://www.raselislam.com
+[youtube link]: http://www.raselislam.com
+
+<br/>

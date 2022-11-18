@@ -1,0 +1,18 @@
+inline means code under box
+
+for one line code `sentence`
+for multiple line       ```
+                        this is 
+                        mulipele
+                        line
+                        ```
+                
+for each language format  ```html
+                        this is 
+                        mulipele
+                        line
+                        ```
+
+                        ```javascript
+                        console.log('hello')
+                        ```
